@@ -1,0 +1,30 @@
+[
+  {
+    "component": "hackathoncomponent",
+    "componentID": 0,
+    "entities": [
+      {
+        "word": "India",
+        "collectionType": "HD_LOCATION",
+        "entityInfo": {
+          "geo": {
+            "lat": 28.6139,
+            "long": 77.2090,
+            "city": "India",
+            "country": "Asia"
+          }
+        }
+      }
+    ],
+    "query": "Top attractions in India",
+    "componentEnabled": true,
+    "keyword": [
+      {
+        "word": "top attractions",
+        "description": ""
+      }
+    ],
+    "genericQuery": "top attractions in HD_LOCATION__CITIES",
+    "unambiguous": true
+  }
+]
