@@ -3,7 +3,7 @@ import React, { useEffect, useMemo, useRef, useState } from "react";
 /* ============================================================
    GLOBAL DESTINATION TAXONOMY & CONFIGURATION
    ============================================================ */
-const GEOAPIFY_API_KEY = "c3f7af378a874e6ba7e069fac32292c5";
+const GEOAPIFY_API_KEY = "API_key";
 const DEFAULT_RADIUS = 15000;
 const API_LIMIT = 20;
 
